@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Jinpyo Ahn",
+      "role": "developer",
+      "id": 1
+    },
+    {
+      "name": "Gildong Hong",
+      "role": "developer",
+      "id": 2
+    }
+  ],
+  "iaqData": [
+    {
+      "temp": 21.4,
+      "humid": 47.1,
+      "co2": 440,
+      "dust": 272.4,
+      "time": "2023-09-06",
+      "id": 1
+    },
+    {
+      "temp": 22.4,
+      "humid": 57.1,
+      "co2": 450,
+      "dust": 232.4,
+      "time": "2023-09-06",
+      "id": 2
+    }
+  ]
+}
